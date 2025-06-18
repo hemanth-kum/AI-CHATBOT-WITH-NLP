@@ -70,3 +70,6 @@ AI chatbots with NLP can be applied in a variety of fields:
 
 An AI chatbot integrated with NLP is a powerful tool that enhances human-computer interaction. This project demonstrates how combining Python, spaCy, and NLTK can create an intelligent system capable of understanding natural language and delivering accurate responses. As AI continues to evolve, such chatbots will become more sophisticated, context-aware, and integral to both business and personal applications. The current chatbot serves as a foundational step toward building more advanced conversational agents capable of learning, memory, and emotional intelligence.
 
+*output
+
+<img width="325" alt="Image" src="https://github.com/user-attachments/assets/f5f35b5f-8a14-4545-8f62-8222ac86dceb" />
